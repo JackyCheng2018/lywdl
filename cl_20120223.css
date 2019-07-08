@@ -1,0 +1,44 @@
+@charset "gb2312";
+/* CSS Document */
+*{ margin:0; padding:0; font-size:12px;}
+li{ list-style-type:none;}
+a{ text-decoration:none; color:#7b4426;}
+a:hover{ text-decoration:underline; color:#ff6600;}
+img{ border:0;}
+.fl{ float:left;}
+.fr{ float:right;}
+.clear{ clear:both;}
+.blank10{ height:10px; line-height:10px; overflow:hidden; clear:both;}
+body{ background-image:url(images/bodybg_cl0223.jpg); background-position:center top; background-repeat:no-repeat; background-color:#efe8de;}
+.cl20120223_01{ width:990px; margin:0 auto; background-image:url(images/bigboxbg_cl0223.jpg); background-repeat:no-repeat;}
+.cl20120223_02{ width:990px; overflow:hidden;}
+.cl20120223_03{ float:left; width:228px; padding-left:42px; height:73px; padding-top:7px;}
+.cl20120223_04{ float:left; width:720px; overflow:hidden;}
+.cl20120223_04 li{ float:right; width:55px; padding-left:29px; height:35px; line-height:35px;}
+.cl20120223_04 li a{ color:#34505e;}
+.cl20120223_04 li a:hover{ color:#ff6600;}
+.cl20120223_04 li.cl20120223_05{ background-image:url(images/hao3_cl0223.jpg); background-repeat:no-repeat; background-position:12px 11px;}
+.cl20120223_04 li.cl20120223_06{ background-image:url(images/hao2_cl0223.jpg); background-repeat:no-repeat; background-position:10px 7px;}
+.cl20120223_04 li.cl20120223_07{ background-image:url(images/hao1_cl0223.jpg); background-repeat:no-repeat; background-position:8px 9px;}
+.cl20120223_08{ width:723px; height:297px; padding-left:131px; padding-top:155px; background-image:url(images/login_cl0223.jpg); background-repeat:no-repeat; background-position:131px 155px;}
+.cl20120223_09{ float:left; width:242px; padding-left:68px; padding-top:50px;}
+.cl20120223_09 dt{ height:25px;}
+.cl20120223_09 dt a{ font-size:14px; font-weight:bold; color:#552007;}
+.cl20120223_09 dt a:hover{ color:#ff6600; text-decoration:none;}
+.cl20120223_09 dd{ height:22px; line-height:22px; color:#ff8a00;}
+.cl20120223_10{ float:left; width:413px; overflow:hidden; padding-top:128px;}
+.cl20120223_11{ float:left; width:273px;}
+.cl20120223_13{ width:273px; overflow:hidden; padding-top:5px; padding-bottom:5px;}
+.cl20120223_14{ float:left; width:91px; height:23px; line-height:23px; color:#5f4e41; font-size:14px; text-align:right;}
+.cl20120223_15{ float:left; width:157px; padding-left:25px; height:23px; background-image:url(images/enter1_cl0223.jpg); background-repeat:no-repeat;}
+.cl20120223_15 input{ float:left; width:135px; height:23px; line-height:23px; border:0; background-color:transparent;}
+.cl20120223_16{ float:left; width:157px; padding-left:25px; height:23px; background-image:url(images/enter2_cl0223.jpg); background-repeat:no-repeat;}
+.cl20120223_16 input{ float:left; width:135px; height:23px; line-height:23px; border:0; background-color:transparent;}
+.cl20120223_17{ float:left; width:157px; padding-left:25px; height:23px; background-image:url(images/enter3_cl0223.jpg); background-repeat:no-repeat;}
+.cl20120223_17 input{ float:left; width:60px; height:23px; line-height:23px; border:0; background-color:transparent;}
+.cl20120223_17 span{ float:left; height:23px; line-height:23px; padding-left:20px;}
+.cl20120223_18{ width:182px; padding-left:91px; height:29px; line-height:29px;}
+.cl20120223_18 a{ color:#0083de;}
+.cl20120223_18 a:hover{ color:#0083de;}
+.cl20120223_12{ float:left; width:140px; padding-top:7px; overflow:hidden;}
+.cl20120223_12 input{ float:left; width:83px; height:84px; border:0; background-image:url(images/enter_cl0223.jpg);}
